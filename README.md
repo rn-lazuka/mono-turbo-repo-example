@@ -7,7 +7,8 @@ This Turborepo includes the following packages/apps:
 This Turborepo includes the following packages/apps:
 
 - `tracker`: a React app with yield tracker table, filters and calculator
-- `@yup/ui`: a ui package with main theme and base components
+- `yield-up`: main React application with other functionality
+- `@yup/ui`: an ui package with main theme and base components
 
 ### Build
 
